@@ -17,7 +17,7 @@ I'm currently learning full-stack development, focusing on .NET 8.0 for backend 
 
 ## 📫 Contact  
 
-- **LinkedIn:** [linkedin.com/in/kacper-nikiel](https://www.linkedin.com/in/kacper-nikiel)  
+- **LinkedIn:** [linkedin.com/in/kacper-nikiel](https://www.linkedin.com/in/kacper-nikiel-78aa63341/)  
 - **Email:** kwnikiel@gmail.com  
 
 Always open to learning and collaborating on projects.  
