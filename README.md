@@ -1,6 +1,6 @@
 # Hi!
 
-I'm currently learning full-stack development, focusing on .NET 8.0 for backend and React with TypeScript for frontend. In my free time, I like experimenting with C++ and Kotlin.  
+I'm currently learning full-stack development, focusing on .NET 8.0 for backend and React with TypeScript for frontend. Experimenting with C++ and Kotlin.  
 
 ## 🔧 Tech Stack  
 
@@ -12,7 +12,7 @@ I'm currently learning full-stack development, focusing on .NET 8.0 for backend 
 ## 📚 Learning  
 
 - Improving .NET 8.0 skills  
-- Exploring React patterns  
+- React patterns  
 - Experimenting with Kotlin for mobile development  
 
 ## 📫 Contact  
