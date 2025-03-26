@@ -11,7 +11,8 @@ I'm currently learning full-stack development, focusing on .NET 8.0 for backend 
 
 ## 📚 Learning  
 
-- Improving .NET 8.0 skills  
+- Improving .NET 8.0 skills
+- Learning architecture
 - React patterns  
 - Experimenting with Kotlin for mobile development  
 
